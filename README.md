@@ -16,4 +16,4 @@ Simple GUIHotspot Enabler using tkinter
     EXIT     - to exit hotspot
     RUN CMD  - run all of the windows commands like as a windows terminal
 
-![Alt text](https://github.com/Fl0at1ngCaT/GUIHotspot/blob/main/resources/hs.png?raw=true)
+![Alt text](https://github.com/Fl0at1ngCaT/GUIHotspot/blob/main/resources/hs.png?raw=true "GUIHotspot")
