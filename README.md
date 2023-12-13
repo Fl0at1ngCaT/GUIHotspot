@@ -1,6 +1,6 @@
 # GUIHotspot
 
-Simple GUIHotspot Enabler using tkinter
+Simple GUIHotspot Enabler using tkinter and you can also download .exe installer.
 
 
 ## You must run this file with administrator privilege to create your hotspot.
