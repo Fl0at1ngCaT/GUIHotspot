@@ -5,6 +5,7 @@ Simple GUIHotspot Enabler using tkinter
 
 ## You must run this file with administrator privilege to create your hotspot.
 
+    python GUIHotspot.py
     SSID = hotspot name
     KEY  = hotspot password
 
